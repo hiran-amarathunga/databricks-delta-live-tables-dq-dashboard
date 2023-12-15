@@ -4,6 +4,7 @@ Data Quality Dashboard for Databricks
 Apply for Delta Live Tables
 ----------------------------
 Use DLT pipeline id to fetch pipeline metrics and arrange them in a visualization. Shows pass/fail records based on different filters.
+Plus, table runtime durations are also available.
 
 Dashboard 1:
 
