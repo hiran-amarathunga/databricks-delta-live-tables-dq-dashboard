@@ -1,4 +1,4 @@
-# databricks-dq-dashboard
+# Databricks DQ Dashboard
 Data Quality Dashboard for Databricks
 
 Apply for Delta Live Tables
